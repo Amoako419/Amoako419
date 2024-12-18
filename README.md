@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning how to make machines intelligent
 - 👯 I’m looking to collaborate on ML and Flutter projects
-- ⚡ Fun fact: Everything I do is for 17 year old version of myself
+- ⚡ Fun fact: Making Machines intelligent
 
 <!--
 **Amoako419/Amoako419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
