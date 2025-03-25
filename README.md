@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning how to make machines intelligent
-- 👯 I’m looking to collaborate on ML and Flutter projects
+- 👯 I’m looking to collaborate on ML and Data Engineering projects
 - ⚡ Fun fact: Making Machines intelligent
 
 <!--
