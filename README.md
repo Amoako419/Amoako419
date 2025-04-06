@@ -1,6 +1,6 @@
-# Amoako419
+# Amoako Heskey
 
-👋 Hi there! I'm Amoako419, a data enthusiast with a passion for machine learning (ML), artificial intelligence (AI), exploratory data analysis (EDA), data analysis, and data engineering. I have extensive experience working with AWS GCP and Azure to build robust data solutions.
+👋 Hi there! I'm Amoako419, a data enthusiast with a passion for machine learning (ML), artificial intelligence (AI), data science, data analysis, and data engineering. I have extensive experience working with AWS GCP and Azure to build robust data solutions.
 
 ## 🔧 Technologies & Tools
 
