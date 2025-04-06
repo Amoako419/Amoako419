@@ -1,21 +1,24 @@
-### Amoako 🧑🏾‍💻.
+# Amoako419
 
-- 🔭 I’m currently working on myself
-- 🌱 I’m currently learning how to make machines intelligent
-- 👯 I’m looking to collaborate on ML and Data Engineering projects
-- ⚡ Fun fact: Making Machines intelligent
+👋 Hi there! I'm Amoako419, a data enthusiast with a passion for machine learning (ML), artificial intelligence (AI), exploratory data analysis (EDA), data analysis, and data engineering. I have extensive experience working with AWS GCP and Azure to build robust data solutions.
 
-<!--
-**Amoako419/Amoako419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Technologies & Tools
 
-Here are some ideas to get you started:
+- **Machine Learning & AI:** TensorFlow, PyTorch, Scikit-Learn, Keras
+- **Exploratory Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
+- **Data Engineering:** Apache Airflow, Apache Spark, Hadoop, Kafka
+- **Cloud Platforms:** Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure
+- **Programming Languages:** Python, SQL, Rust
+- **Database Systems:** MySQL, PostgreSQL, MongoDB, BigQuery
+- **Other Tools:** Git, Docker, Kubernetes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 What I Do
+
+- **Machine Learning & AI:** Developing and deploying machine learning models and AI solutions to solve real-world problems.
+- **Exploratory Data Analysis:** Analyzing and visualizing data to uncover insights and trends.
+- **Data Engineering:** Designing and implementing data pipelines and ETL processes to support data-driven applications.
+- **Cloud Solutions:** Leveraging AWS, GCP and Azure to build scalable and efficient data infrastructure.
+
+---
+
+⭐️ From [Amoako419](https://github.com/Amoako419)
