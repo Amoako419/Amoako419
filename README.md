@@ -22,3 +22,5 @@
 ---
 
 ⭐️ From [Amoako419](https://github.com/Amoako419)
+![PR Count](https://img.shields.io/github/issues-pr/Amoako419/Amoako419)
+![Profile Views](https://komarev.com/ghpvc/?username=Amoako419&color=blue)
