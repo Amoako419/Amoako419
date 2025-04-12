@@ -22,6 +22,7 @@
 ---
 
 ⭐️ From [Amoako419](https://github.com/Amoako419)
+
 ![Closed PRs](https://img.shields.io/badge/Closed%20PRs-37-blue)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Amoako419&color=blue)
