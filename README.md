@@ -21,11 +21,10 @@
 - **Cloud Solutions:** Leveraging AWS, GCP and Azure to build scalable and efficient data infrastructure.
 
 ---
-
-⭐️ From [Amoako419](https://github.com/Amoako419)
-
-## Merged Pull Requests
+### Merged Pull Requests
 
 <!-- START Merged PRs -->
 
 <!-- END Merged PRs -->
+
+⭐️ From [Amoako419](https://github.com/Amoako419)
