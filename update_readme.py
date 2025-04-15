@@ -6,7 +6,7 @@ REPO = "Amoako419/Amoako419"
 README_FILE = "README.md"
 
 def fetch_merged_prs():
-    token = os.getenv("GITHUB_TOKEN")
+    token = os.getenv("TOKEN")
     headers = {"Authorization": f"token {token}"}
     url = f"{GITHUB_API_URL}/search/issues?q=repo:{REPO}+is:pr+is:merged+author:Amoako419"
     response = requests.get(url, headers=headers)
