@@ -1,4 +1,5 @@
 # Amoako Heskey
+![Profile Views](https://komarev.com/ghpvc/?username=Amoako419&color=pink)
 
 👋 Hi there! I'm Amoako Heskey, a data enthusiast with a passion for machine learning (ML), artificial intelligence (AI), data science, data analysis, and data engineering. I have extensive experience working with AWS, GCP and Azure to build robust data solutions.
 
@@ -23,6 +24,8 @@
 
 ⭐️ From [Amoako419](https://github.com/Amoako419)
 
-![Closed PRs](https://img.shields.io/badge/Closed%20PRs-37-blue)
+## Merged Pull Requests
 
-![Profile Views](https://komarev.com/ghpvc/?username=Amoako419&color=blue)
+<!-- START Merged PRs -->
+
+<!-- END Merged PRs -->
