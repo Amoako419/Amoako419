@@ -31,6 +31,7 @@ def update_readme(merged_prs):
         file.writelines(new_lines)
 
 def main():
+    print("Token exists:", bool(token))
     merged_prs = fetch_merged_prs()
     update_readme(merged_prs)
 
