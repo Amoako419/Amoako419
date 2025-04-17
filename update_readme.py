@@ -7,6 +7,7 @@ README_FILE = "README.md"
 
 def fetch_merged_prs():
     token = os.getenv("TOKEN")
+    print("Token exists:", bool(token))
     headers = {"Authorization": f"token {token}"}
     url = f"{GITHUB_API_URL}/search/issues?q=repo:{REPO}+is:pr+is:merged+author:Amoako419"
     response = requests.get(url, headers=headers)
@@ -31,7 +32,6 @@ def update_readme(merged_prs):
         file.writelines(new_lines)
 
 def main():
-    print("Token exists:", bool(token))
     merged_prs = fetch_merged_prs()
     update_readme(merged_prs)
 
