@@ -1,9 +1,11 @@
 name: Update README with Merged PRs
 
 on:
-  schedule:
-    - cron: '0 22 * * *' 
-  workflow_dispatch: # Allows manual triggering
+  push:
+    branches: [ main ] # Trigger on push to main branch
+  pull_request:
+    branches: [ main ] 
+
 
 
 jobs:
