@@ -2,8 +2,9 @@ name: Update README with Merged PRs
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily
+    - cron: '0 22 * * *' 
   workflow_dispatch: # Allows manual triggering
+
 
 jobs:
   update-readme:
