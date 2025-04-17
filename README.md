@@ -24,7 +24,7 @@
 ### Merged Pull Requests
 
 <!-- START Merged PRs -->
-
 <!-- END Merged PRs -->
+
 ---
 ⭐️ From [Amoako419](https://github.com/Amoako419)
