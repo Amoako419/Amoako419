@@ -21,10 +21,10 @@
 - **Cloud Solutions:** Leveraging AWS, GCP and Azure to build scalable and efficient data infrastructure.
 
 ---
-// ### GitHub Stats
 
 
-// <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amoako419&show_icons=true&locale=en" alt="amoako419" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amoako419&show_icons=true&locale=en" alt="amoako419" /></p>
 
 
 
