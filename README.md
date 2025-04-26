@@ -27,4 +27,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amoako419&show_icons=true&locale=en" alt="amoako419" /></p>
 
 ---
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amoako419)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
 ⭐️ From [Amoako419](https://github.com/Amoako419)
