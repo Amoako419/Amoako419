@@ -20,11 +20,7 @@
 - **Data Engineering:** Designing and implementing data pipelines and ETL processes to support data-driven applications.
 - **Cloud Solutions:** Leveraging AWS, GCP and Azure to build scalable and efficient data infrastructure.
 
----
 
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amoako419&show_icons=true&locale=en" alt="amoako419" /></p>
 
 
 
