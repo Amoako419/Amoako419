@@ -1,6 +1,8 @@
 # Amoako Heskey
 ![](https://komarev.com/ghpvc/?username=Amoako419)
 
+[![committers.top badge](https://user-badge.committers.top/ghana/USERNAME.svg)](https://user-badge.committers.top/ghana/Amoako419)
+
 👋 Hi there! I'm Amoako Heskey, a data enthusiast with a passion for machine learning (ML), artificial intelligence (AI), data science, data analysis, and data engineering. I have extensive experience working with AWS, GCP and Azure to build robust data solutions.
 
 ## 🔧 Technologies & Tools
